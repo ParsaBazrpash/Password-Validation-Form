@@ -1,0 +1,1 @@
+This form provides a user-friendly registration experience with real-time password validation. It checks for the presence of a valid email address and enforces password criteria, including at least one lowercase letter, one uppercase letter, one number, and a minimum length of 8 characters. The dynamic feedback messages help users create strong and secure passwords.
